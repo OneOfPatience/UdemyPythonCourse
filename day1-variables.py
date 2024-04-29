@@ -1,4 +1,4 @@
-#Printing Values to the Screen
+#Using Variables
 
 #1 Printing user input stored in variable
 #name = input("What is your name?")
@@ -14,7 +14,7 @@
 
 #4 Print the value of a function applied to user input
 #print(len(input("What is your name?")))
-#This can be broken down into seperate lines of code
+#This can be broken down into separate lines of code
 #name = input("What is your name?\n")
 #length = len(name)
 #print(length)
